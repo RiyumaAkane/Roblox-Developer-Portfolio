@@ -29,5 +29,5 @@ Joined the existing project as a scripter.
 - Updated deprecated Roblox APIs and improved existing systems for maintanability.
 
 ## Contacts 
-- Discord: _riyuma_
+- Discord: \_riyuma\_
 - Github: RiyumaAkane   
