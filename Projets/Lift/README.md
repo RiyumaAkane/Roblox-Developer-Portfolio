@@ -65,4 +65,4 @@ Lead Scripter (occasionally developing in UI)
 ## Links
 - Game: [Lift](https://www.roblox.com/games/72896428980710/Lift)
 - Roblox Group: [Lift Entertainment](https://www.roblox.com/communities/357815619/Lift-Entertainment)
-- Discord Server: [Lift Enteertainment](https://discord.gg/u9hyUSGTbH)
+- Discord Server: [Lift Entertainment](https://discord.gg/u9hyUSGTbH)
