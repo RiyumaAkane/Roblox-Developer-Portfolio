@@ -51,7 +51,7 @@ Lead Scripter (occasionally developing in UI)
 - Improved the responsive UI layouts for different screen sizes and devices.
 - Implemnted the permission-based buttons that check a player's group rank and only display buttons they have access to.
 
-### Development Log
+## Development Log
 - Aug 10: Fixed script sandbox/capability issues and reworked the Admin Panel to retrieve player roles through the server. Updated the Group ID.
 - Aug 11: Fixed RolePermissions errors, completed Sell All Fuel, removed duplicate scripts, and replaced deprecated MembershipType usage with HasRobloxPremium.
 - Aug 12: Improved mobile UI responsiveness by adjusting ScreenInsets and removing an incompatible viewport script.
@@ -62,7 +62,7 @@ Lead Scripter (occasionally developing in UI)
 - Aug 17: Fixed city teleportation and the Staff Panel, added Fly and Kill moderator buttons, redesigned the Moderator Panel, and implemented an automatic moderation log with View Log. Most moderator commands were completed, except server-joining commands.
 - Aug 18: Added moderator commands for Add/Remove 1K Fuel and Add/Remove 10K Money.
 
-### Links
+## Links
 - Game: [Lift](https://www.roblox.com/games/72896428980710/Lift)
 - Roblox Group: [Lift Entertainment](https://www.roblox.com/communities/357815619/Lift-Entertainment)
 - Discord Server: [Lift Enteertainment](https://discord.gg/u9hyUSGTbH)
