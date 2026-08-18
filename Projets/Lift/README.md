@@ -30,19 +30,22 @@ Lead Scripter (occasionally developing in UI)
 - Worked with the exisitng developmeny team to implement requested features and improvements.
 
 
-#### Highlights
+## Highlights
 
+### Moderator Panel
 ![Moderator Panel](Images/Moderator_Panel.png)
 **My contributions:** 
 - Redesigned the panel layout and scripted majority of the button's functionality.
 - Developed a automatic logging feature, and a view log for viewing selected user log.
 
+### Gamepass UI
 ![Gamepass UI](Images/Gamepass_UI.png)
 **My contributions:**
 - Improved the responsive UI layouts for different screen sizes and devices.
 - Implemented a dynamic gamepass price script that atuomatically update to the actual gamepass price.
 - Developed a ownership indicator.
 
+### Permission-based Buttons
 ![Permission-based Buttons](Images/Permission-based_buttons.png)
 **My contributions**
 - Improved the responsive UI layouts for different screen sizes and devices.
